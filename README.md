@@ -1,6 +1,4 @@
 
-README.md
-
 # Hi, welocme to my profile!👋
 
 I am Tashfeen Mehmood, a software developer.I have done my bachelors in Computer Sciences and learning to become a better programmer day by day.
