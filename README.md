@@ -1,5 +1,5 @@
 
-# Hi, welocme to my profile!👋
+# Hi, welocome to my profile!👋
 
 I am Tashfeen Mehmood, a software developer.I have done my bachelors in Computer Sciences and learning to become a better programmer day by day.
 I try to write minimal, efficient and readable code for users to understand. I always try to learn new things and use my expertise to inovate 
