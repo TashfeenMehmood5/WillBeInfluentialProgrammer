@@ -14,9 +14,9 @@ something new and will continue ahead with this approach.
 
 4-Databases: MySQL, PostgreSQL
 
-5-Tools: Git, VS Code ,Jupyter Notebook
+5-Tools: Git, VS Code ,Jupyter Notebook , Microsoft Azure 
 
-6-ML,DL (Algorithms,Libraries)
+6-AI,ML,DL,CV(Algorithms,Libraries)
 
 # Experience:
 Internship At Code Alpha
@@ -25,7 +25,8 @@ Data Science: Machine Learning
 # Education🎓
 Bachelor's degree in Computer Science
 
-Courses: web development in python
+Course: web development in python
+Course:Azure AI 900 (Artificiall Intelligence and Machine Learning)
  
 
 # Contact📩
